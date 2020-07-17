@@ -39,7 +39,7 @@ public class Pilotage {
 	
 	ResourceLoader resourceLoader = null ;
 	
-	Resource resourceFile = null ;
+	Resource resourceFile = null ; 
 	
 	
 	public Pilotage() {
